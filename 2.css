@@ -1,0 +1,16 @@
+body{
+
+	background-image:url("slika.jpg");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:top 100px right 20px;
+
+	}
+h1{
+	background-color:#C00000;
+	}
+p{
+	background-color:#E00000;
+	}
+	
+	
